@@ -1,4 +1,3 @@
-import objc
 import pyautogui as pg
 import pyautogui
 import time
