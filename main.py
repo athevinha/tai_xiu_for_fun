@@ -6,7 +6,7 @@ import random
 
 
 # Tool của NTV
-# STEP 1: Tìm các vị trí đúng của TAI, XIU, ĐẶT CƯỢC, HUỶ ở trong màn hình
+# STEP 1: Tìm các vị trí đúng của TAI, XIU,MOT_NGHIN, ĐẶT CƯỢC, HUỶ ở trong màn hình
 # bằng cách tắt hàm START và chạy hàm FIND_TAI_XIU_SUBMIT_POSITION rồi di chuột để lấy vị trí của các nút
 # STEP 2: MONEY là số tiền muốn cược mỗi lần ( tự chỉnh )
 # STEP 3: Chạy hàm START rồi ngồi chill chờ tiền bay :)))
