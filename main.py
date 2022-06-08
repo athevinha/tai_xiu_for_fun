@@ -50,9 +50,9 @@ def START():
         print(TAI_XIU_RANDOM)
         if(TAI_XIU_RANDOM % 2 == 0):
             TAI(MONEY)
-            print('tai an cut 5k')
+            print('tai')
         else:
-            print('xiu an cut 5k')
+            print('xi')
             XIU(MONEY)
 
 def FIND_TAI_XIU_SUBMIT_POSITION():
