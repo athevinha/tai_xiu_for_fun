@@ -1,2 +1,1 @@
-# tai_xiu_sml
-Tài xỉu vô đối =))
+# tai xiu for fun
